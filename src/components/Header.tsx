@@ -1,6 +1,6 @@
 import { MessageCircle } from "lucide-react";
 import { Button } from "@/components/ui/button";
-import logo from "@/assets/logo.png";
+import logo from "/lovable-uploads/cba28e53-ed21-4548-9ac5-2586abdb4138.png";
 
 const Header = () => {
   return (
